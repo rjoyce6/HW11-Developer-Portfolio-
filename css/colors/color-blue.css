@@ -1,0 +1,160 @@
+
+
+.prev:hover,
+.next:hover,
+.prev:active,
+.next:active,
+.play:hover,
+.pause:hover,
+.play:active,
+.pause:active {
+	background-color: #F89406;
+}
+
+.cd-headline.loading-bar .cd-words-wrapper::after,
+.pro-bar,
+.counter-line,
+.portfolio-box-1 .line-mask,
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span,
+.pricing-item a.price-link:hover {
+	background: #F89406;
+}
+ul.slimmenu li a.mPS2id-highlight,
+.scroll-down:hover,
+#sync2 .item:hover p,
+.team-wrap .mask-team p span,
+.team-wrap .mask-team ul li p span,
+.list-social li.icon-soc a:hover,
+#filter li .current,
+#filter li a:hover,
+#sync2 .synced .item p,
+.ajax-project-info .ajax-info span,
+.ajax-link,
+.section-call-action-link p,
+.blog-item .blog-item-top-text,
+.blog-item:hover .read-more,
+.pricing-item:hover h6,
+.pricing-item.popular h6,
+.pricing-item .number-price span,
+#cd-google-map address,
+.footer-social a:hover,
+.footer-social a::before,
+.footer-social a::after,
+.footer-credit a:hover,
+.footer-credit a::before,
+.footer-credit a::after,
+.blog-box-4:hover .link,
+.blog-box-4 .post-date {
+	color: #F89406;
+}
+ul.slimmenu li a:hover {
+    border-bottom:1px solid #F89406;
+}
+.sub-line {
+	border-bottom:2px solid #F89406;
+}
+.section-separator-line{
+	border-bottom:1px dashed #F89406;
+}
+.owl-theme .owl-controls .owl-page span{
+	border:1px solid #F89406;
+}
+.services-item .fill-color{
+	fill:#F89406;
+}
+#cd-zoom-in, #cd-zoom-out {
+  background-color: #F89406;
+}
+#ajax-form textarea:focus,
+#ajax-form input:focus,
+#ajax-form textarea:active,
+#ajax-form input:active {
+	border-bottom:1px solid #F89406;
+}
+#ajax-form button{
+	color: #F89406;
+}
+
+.footer-credit a span{
+	border-bottom:1px solid #F89406;
+}
+
+/**/
+
+
+ul.slimmenu li a.active-menu,
+.cd-half-block h2 span,
+.mb_YTVPBar,
+.contact-details p span,
+.big-text-pages-top span,
+.list-social li.icon-soc a:hover,
+.services-box:hover h6 span,
+.cd-half-block-blog h3 span,
+.blog-date,
+.pricing-item:hover h6,
+.pricing-item.popular h6,
+.pricing-item .number-price span,
+.services-box-2:hover .ser-icon,
+.big-text-portfolio-top h2 span {
+	color: white;
+}
+
+
+ul.slimmenu li a.active-menu,
+.section-header-text-left h2 span,
+.section-big-header-text h2 span,
+.section-big-header h2 span,
+.section-header-text h2 span,
+.team-wrap .mask-team p span,
+.team-wrap .mask-team ul li p span,
+#ajax-form button,
+#filter li .current,
+#filter li a:hover  {
+	color:  #F89406;
+}
+
+
+ul.slimmenu li a:hover {
+    border-bottom:1px solid #F89406;
+}
+.cd-vertical-nav a:hover,
+a.scroll-down:hover,
+.btn:hover,
+.btn-projects,
+.list-social li:hover,
+#cd-zoom-in,
+#cd-zoom-out,
+.section-header-text .line-header,
+.section-header-text-left .line-header,
+.section-big-header-text .line-big-header,
+.cd-vertical-nav-blog a:hover,
+.pricing-item a.price-link:hover,
+.counter-line,
+.pro-bar,
+.smk_accordion .accordion_in .acc_head:hover,
+.smk_accordion .accordion_in.acc_active > .acc_head,
+.portfolio-box-1 .line-mask,
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+	background-color:#F89406;
+}
+.cd-intro h1 span{
+    border-bottom:2px solid #F89406;
+}
+.footer-social a::before {
+	border: 2px solid #F89406;
+}
+.big-text-top span{
+	border-left:3px solid #F89406;
+	border-right:3px solid #F89406;
+}
+.mb_YTVTime {
+	background: #F89406;
+}
+#ajax-form textarea:focus,
+#ajax-form input:focus,
+#ajax-form textarea:active,
+#ajax-form input:active {
+	border-bottom:1px solid #F89406;
+}
