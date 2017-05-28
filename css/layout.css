@@ -5073,9 +5073,7 @@ a.scroll-down.scroll-yt {
 .portfolio-box-1 .mask-1.no-border-work{
 	border:0 solid #fff;
 }
-.portfolio-box-1:hover .mask-1{
-	background:rgba(0,0,0,.9);
-}
+
 .portfolio-box-1 h6{
 	position:absolute;
 	top:50px;
@@ -5290,6 +5288,14 @@ a.scroll-down.scroll-yt {
 	color:#fff;
 }
 
+.project1-top {
+	position:relative;
+	width:100%;
+	overflow:hidden;
+	background:url('../images/portfolio/18a.jpg') no-repeat center center;
+	background-size:cover;
+}
+
 .project2-top {
 	position:relative;
 	width:100%;
@@ -5314,6 +5320,14 @@ a.scroll-down.scroll-yt {
 	background-size:cover;
 }
 
+.project5-top {
+	position:relative;
+	width:100%;
+	overflow:hidden;
+	background:url('../images/portfolio/24a.jpg') no-repeat center center;
+	background-size:cover;
+}
+
 .project6-top {
 	position:relative;
 	width:100%;
@@ -5321,6 +5335,7 @@ a.scroll-down.scroll-yt {
 	background:url('../images/portfolio/30a.jpg') no-repeat center center;
 	background-size:cover;
 }
+
 
 
 
@@ -5341,15 +5356,17 @@ a.scroll-down.scroll-yt {
 	position:relative;
 	width:100%;
 	overflow:hidden;
-	background:url('../images/portfolio/3a.jpg') no-repeat center center;
+	background:url('../images/portfolio/18a.jpg') no-repeat center center;
 	background-size:cover;
 }
+
+
 
 .project10-top {
 	position:relative;
 	width:100%;
 	overflow:hidden;
-	background:#ffffff url('../images/portfolio/10a.gif') no-repeat center center;
+	background:#ffffff url('../images/portfolio/30a.gif') no-repeat center center;
 	background-size:500px 500px;
 }
 
