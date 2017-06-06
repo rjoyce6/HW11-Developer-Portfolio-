@@ -8,7 +8,7 @@
 .pause:hover,
 .play:active,
 .pause:active {
-	background-color: #F89406;
+	background-color: white;
 }
 
 .cd-headline.loading-bar .cd-words-wrapper::after,

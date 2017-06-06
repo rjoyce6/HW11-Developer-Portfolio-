@@ -273,8 +273,8 @@ body.royal_loader {
             transition: left 0.3s linear;
 }
 #royal_preloader.logo .loader {
-    width: 204px;
-    height: 28px;
+    width: 314px;
+    height: 30px;
     position: absolute;
     left: 50%;
     top: 50%;
@@ -3487,7 +3487,7 @@ video#video_background {
 	width:109px;
 	height:15px;
 	left:10px;
-	top:20px;
+	top:15px;
 	background:url('../images/logo.png') no-repeat center center;
 	background-size:109px 15px;
 	-webkit-transition : all 0.5s ease-out;
@@ -3779,11 +3779,13 @@ ul.slimmenu li > ul {
 	-moz-transition : all 0.3s ease-out;
 	-o-transition :all 0.3s ease-out;
 	transition : all 0.3s ease-out;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2)
+
 }
 .cbp-af-header.cbp-af-header-shrink .logo{
 	width:86px;
 	height:16px;
-	top:32px;
+	top:20px;
 	background:url('../images/logo.png') no-repeat center center;
 	background-size:86px 16px;
 	-webkit-transition : all 0.3s ease-out;
@@ -3895,6 +3897,7 @@ ul.slimmenu > li {}
 ul.slimmenu > li:first-child { border-left: 0 }
 ul.slimmenu > li:last-child { margin-right: 0 }
 ul.slimmenu li a {
+		text-decoration: none;
     display: block;
     color: #111111;
     padding: 10px 0px;
