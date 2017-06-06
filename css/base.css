@@ -428,3 +428,18 @@ body {
 ::-moz-selection {
 	background: rgba(100,100,100,.2); /* Firefox */
 }
+
+
+/*Project links */
+/*================================================== */
+
+.project-links li{
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: -10px;
+}
+
+.project-links {
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
