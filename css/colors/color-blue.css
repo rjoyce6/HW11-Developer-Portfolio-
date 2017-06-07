@@ -45,7 +45,8 @@ ul.slimmenu li a.mPS2id-highlight,
 .footer-credit a::before,
 .footer-credit a::after,
 .blog-box-4:hover .link,
-.blog-box-4 .post-date {
+.blog-box-4 .post-date,
+.post-top-text span {
 	color: #F89406;
 }
 ul.slimmenu li a:hover {
